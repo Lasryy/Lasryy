@@ -1,39 +1,27 @@
-<h1 align="center">Salut, moi c'est Lasry 👋</h1>
+## Salut, moi c'est Lasry 👋
 
-<p align="center">
-  Développeur Full Stack orienté Backend / DevOps <br>
-  Étudiant en BUT Informatique à Sorbonne Paris Nord
-</p>
+Je suis développeur full stack, avec une appétence pour le **backend**, l’**automatisation** et le **DevOps**.  
+Actuellement étudiant en **BUT Informatique à Sorbonne Paris Nord**.
 
-<p align="center">
-  Passionné par le développement web, l'automatisation, l'IA et le design.
-</p>
+J’aime construire des applications web **utiles, propres et bien pensées**.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lasrybeskiwin/">LinkedIn</a> •
-  <a href="mailto:lasrybeskiwin@gmail.com">Email</a>
-</p>
+En ce moment, je travaille surtout sur :
 
----
+- des projets web orientés backend
+- des automatisations et intégrations entre plusieurs outils
+- des interfaces simples, claires et efficaces
 
-### À propos
+Quelques projets que j’ai aimés construire :
 
-- Je développe surtout des applications web backend et full stack
-- J'aime construire des projets utiles, propres et bien pensés
-- Intérêt fort pour Python, Flask, React, SQL, Linux et Docker
-- En ce moment : projets perso, montée en compétences backend / DevOps
+- **Application web de gestion d’une collection de jeux** — un projet universitaire mêlant **PHP, SQL, Python, HTML/CSS**
+- **Devis3D** — une landing page reliée à un système de génération de devis automatisé via **Tally, Airtable, Make, Google Docs, mail et Discord**
+- **Simulateur de livraison UberEats** — un système basé sur **Redis / MongoDB** avec interactions manager-livreurs
 
-### Stack
+### Fun facts
 
-`Python` `JavaScript` `PHP` `Java` `SQL`  
-`Flask` `React` `HTML` `CSS`  
-`Git` `Linux` `Docker` `Figma`
+- J’aime autant développer des apps que réfléchir à leur rendu visuel
+- Je m’intéresse aussi au graphisme, à la musique, au dessin et à l’esport
+- J’aime les projets concrets, simples en apparence, mais solides techniquement
 
-### Fun fact
-
-J’aime autant créer des apps que designer leur interface.
-
-```python
-class Lasry:
-    role = "Full Stack Developer"
-    focus = ["Backend", "DevOps", "UI propre"]
+**Liens**  
+[LinkedIn](https://www.linkedin.com/in/lasrybeskiwin/) • [Email](mailto:lasrybeskiwin@gmail.com)
