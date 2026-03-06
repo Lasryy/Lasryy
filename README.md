@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lasry-b-ab59bb30b/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/lasrybeskiwin/">LinkedIn</a> •
   <a href="mailto:lasrybeskiwin@gmail.com">Email</a>
 </p>
 
