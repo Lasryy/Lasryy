@@ -1,7 +1,7 @@
 ## Salut, moi c'est Lasry 👋
 
 Je suis développeur full stack, avec une appétence pour le **backend**, l’**automatisation** et le **DevOps**.  
-Actuellement étudiant en **BUT Informatique à Sorbonne Paris Nord**.
+Actuellement étudiant en **Pre-MSC à EPITECH Paris**.
 
 J’aime construire des applications web **utiles, propres et bien pensées**.
 
