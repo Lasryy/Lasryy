@@ -23,13 +23,13 @@ et l’automatisation.
 Python · Java · TypeScript · JavaScript · SQL · PHP
 
 **Backend & Web**  
-Flask · SQLAlchemy · REST APIs · React · Next.js
+Flask · SQLAlchemy · API REST · React · Next.js
 
-**Data**  
+**Bases de données & Data**  
 PostgreSQL · MySQL · SQLite · MongoDB · Redis · Pandas
 
-**Engineering**  
-Git · Linux · Docker · GitHub · n8n · MCP · intégrations LLM
+**Engineering & Automation**  
+Git · GitHub · Linux · Docker · n8n · Make · MCP · intégrations LLM
 
 ---
 
@@ -45,7 +45,9 @@ universitaire de plus de **17 000 jeux de société**.
 - Modélisation et exploitation d’une base relationnelle **MySQL**
 - Application MVC avec recherche multicritère, prêts, historique, rôles et exports
 
-**Stack :** PHP · MySQL · Python · Pandas · JavaScript
+**Stack :** PHP · MySQL · Python · Pandas · OpenPyXL · JavaScript
+
+> Projet réalisé en équipe. Le dépôt présenté correspond à mon fork du projet collectif.
 
 [Voir le projet](https://github.com/Lasryy/Developpement-d-une-application-web)
 
@@ -69,39 +71,30 @@ POC backend simulant un cycle de commande complet entre
 
 ### 🎬 Dexia — Recommandation de films hors ligne
 
-Application mobile de recommandation fonctionnant entièrement
-**hors ligne avec SQLite**.
+Application mobile de recommandation développée en équipe et fonctionnant
+entièrement **hors ligne avec SQLite**.
 
 - Interface de découverte par swipe en React Native
 - Moteur de scoring adaptatif basé sur les préférences utilisateur
 - Répartition **70 % recommandations ciblées / 30 % découverte**
 - Mots-clés dynamiques et mécanisme visant à limiter les bulles de filtres
+- Stockage local permettant une utilisation sans connexion
 
 **Stack :** React Native · TypeScript · Expo · SQLite
 
-[Voir le projet](https://github.com/Maxime-Lointier/Dexia)
+> Projet réalisé en équipe. Le dépôt présenté correspond à mon fork du projet collectif.
 
----
-
-## Autres réalisations
-
-- **Devis3D** — workflow de génération automatisée de devis :
-  React · Tally · Airtable · Make · Google Docs · Gmail · Discord
-- **Agent MCP / IA** — intégration entre Flask, Firebase, LLM et API tierces
-- **POC Pygame** — optimisation via cache Flyweight, collisions locales et éclairage par masque alpha
+[Voir le projet](https://github.com/Lasryy/Dexia)
 
 ---
 
 ## En ce moment
 
-Je renforce actuellement mes compétences autour de :
+Je travaille actuellement à renforcer mes compétences autour de :
 
 - architecture backend
 - tests automatisés
-- CI/CD
-- conteneurisation
-- cloud
-- observabilité
+- CI/CD et conteneurisation
 - développement orienté production
 
 ---
@@ -138,11 +131,11 @@ Python · Java · TypeScript · JavaScript · SQL · PHP
 **Backend & Web**  
 Flask · SQLAlchemy · REST APIs · React · Next.js
 
-**Data**  
+**Databases & Data**  
 PostgreSQL · MySQL · SQLite · MongoDB · Redis · Pandas
 
-**Engineering**  
-Git · Linux · Docker · GitHub · n8n · MCP · LLM integrations
+**Engineering & Automation**  
+Git · GitHub · Linux · Docker · n8n · Make · MCP · LLM integrations
 
 ---
 
@@ -150,7 +143,7 @@ Git · Linux · Docker · GitHub · n8n · MCP · LLM integrations
 
 ### 🎲 University Game Library — 17,000+ games
 
-Full-stack business application built as a team to manage a university
+Full-stack business application developed as a team to manage a university
 collection containing more than **17,000 board games**.
 
 - Migrated and consolidated heterogeneous Excel datasets
@@ -158,7 +151,9 @@ collection containing more than **17,000 board games**.
 - Designed and used a relational **MySQL** database
 - MVC application featuring multi-criteria search, loans, history, roles and exports
 
-**Stack:** PHP · MySQL · Python · Pandas · JavaScript
+**Stack:** PHP · MySQL · Python · Pandas · OpenPyXL · JavaScript
+
+> Team project. The repository linked below is my fork of the collaborative project.
 
 [View project](https://github.com/Lasryy/Developpement-d-une-application-web)
 
@@ -182,39 +177,30 @@ Backend POC simulating a complete order lifecycle involving
 
 ### 🎬 Dexia — Offline Movie Recommendation
 
-Mobile recommendation application running entirely
-**offline using SQLite**.
+Mobile recommendation application developed as a team and running
+entirely **offline using SQLite**.
 
 - Swipe-based discovery interface built with React Native
 - Adaptive recommendation scoring based on user preferences
 - **70% targeted recommendations / 30% discovery**
 - Dynamic keywords and mechanisms designed to reduce filter bubbles
+- Local storage enabling fully offline usage
 
 **Stack:** React Native · TypeScript · Expo · SQLite
 
-[View project](https://github.com/Maxime-Lointier/Dexia)
+> Team project. The repository linked below is my fork of the collaborative project.
+
+[View project](https://github.com/Lasryy/Dexia)
 
 ---
 
-## Other Work
-
-- **Devis3D** — automated quotation workflow:
-  React · Tally · Airtable · Make · Google Docs · Gmail · Discord
-- **AI / MCP Agent** — integration between Flask, Firebase, LLMs and third-party APIs
-- **Pygame POC** — Flyweight caching, local collision optimisation and alpha-mask lighting
-
----
-
-## Currently Exploring
+## Currently
 
 I am currently strengthening my software engineering skills around:
 
 - backend architecture
 - automated testing
-- CI/CD
-- containerisation
-- cloud infrastructure
-- observability
+- CI/CD and containerisation
 - production-oriented development
 
 </details>
