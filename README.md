@@ -1,27 +1,97 @@
-## Salut, moi c'est Lasry 👋
+# Lasry Beskiwin
 
-Je suis développeur full stack, avec une appétence pour le **backend**, l’**automatisation** et le **DevOps**.  
-Actuellement étudiant en **Pre-MSC à EPITECH Paris**.
+**Software / Full Stack Developer** · Backend · Data · Automation  
+**Master of Science @ EPITECH Paris**
 
-J’aime construire des applications web **utiles, propres et bien pensées**.
+Je développe des applications web, des API et des systèmes orientés données,
+avec un intérêt particulier pour le **backend**, l’**automatisation**
+et la conception de solutions fiables de bout en bout.
 
-En ce moment, je travaille surtout sur :
+🎯 **Recherche d'une alternance à partir de janvier 2027**  
+📍 Paris / Île-de-France  
+📆 Rythme : **4 semaines en entreprise / 2 semaines à l'école**
 
-- des projets web orientés backend
-- des automatisations et intégrations entre plusieurs outils
-- des interfaces simples, claires et efficaces
+---
 
-Quelques projets que j’ai aimés construire :
+## Technologies
 
-- **Application web de gestion d’une collection de jeux** — un projet universitaire mêlant **PHP, SQL, Python, HTML/CSS**
-- **Devis3D** — une landing page reliée à un système de génération de devis automatisé via **Tally, Airtable, Make, Google Docs, mail et Discord**
-- **Simulateur de livraison UberEats** — un système basé sur **Redis / MongoDB** avec interactions manager-livreurs
+**Languages**  
+Python · Java · TypeScript · JavaScript · SQL · PHP
 
-### Fun facts
+**Backend & Web**  
+Flask · SQLAlchemy · REST APIs · React · Next.js
 
-- J’aime autant développer des apps que réfléchir à leur rendu visuel
-- Je m’intéresse aussi au graphisme, à la musique, au dessin et à l’esport
-- J’aime les projets concrets, simples en apparence, mais solides techniquement
+**Data**  
+PostgreSQL · MySQL · SQLite · MongoDB · Redis · Pandas
 
-**Liens**  
-[LinkedIn](https://www.linkedin.com/in/lasrybeskiwin/) • [Email](mailto:lasrybeskiwin@gmail.com)
+**Engineering & Automation**  
+Git · Linux · Docker · GitHub · n8n · Make · MCP · LLM integrations
+
+---
+
+## Selected projects
+
+### 🎲 University Game Library — 17,000+ games
+Full-stack inventory and loan management application built for a university
+collection containing more than **17,000 board games**.
+
+- Migrated and cleaned heterogeneous Excel datasets with **Python, Pandas and OpenPyXL**
+- Designed a relational **MySQL** database
+- Built an MVC **PHP/MySQL** application with multi-criteria search, loans, roles and exports
+
+**Stack:** PHP · MySQL · Python · Pandas · JavaScript
+
+[View repository](https://github.com/Lasryy/Developpement-d-une-application-web)
+
+---
+
+### ⚙️ Devis3D — Automated commercial workflow
+Technical case study delivered in **48 hours**, combining a React landing page
+with a fully automated quotation workflow.
+
+`Tally → Airtable → Make → Google Docs → PDF → Gmail + Discord`
+
+- Dynamic geographic pricing
+- Automatic PDF generation
+- Automatic client delivery
+- Internal Discord notification
+- **No manual intervention after submission**
+
+**Stack:** React · Make · Airtable · Tally · Vercel
+
+[View repository](https://github.com/Lasryy/landing_page_devis) ·
+[Live demo](https://devis3d.vercel.app/)
+
+---
+
+### 🍜 Redis vs MongoDB — Multi-actor delivery system
+Delivery-system POC modelling interactions between **clients, drivers and managers**
+through a complete order lifecycle.
+
+- Implemented the same business workflow with **Redis and MongoDB**
+- Compared real-time behaviour, persistence and data modelling approaches
+- Built the complete flow from order creation to driver assignment and delivery
+
+**Stack:** Python · Redis · MongoDB
+
+[View repository](https://github.com/Lasryy/POC-UberEats-Redis-MongoDB)
+
+---
+
+## Currently
+
+I am currently strengthening my software engineering skills around:
+
+- backend architecture
+- automated testing
+- CI/CD
+- containerisation
+- cloud and production-oriented development
+
+---
+
+## Contact
+
+🌐 [lasrybeskiwin.fr](https://lasrybeskiwin.fr)  
+💼 [LinkedIn](https://www.linkedin.com/in/lasrybeskiwin/)  
+✉️ [lasrybeskiwin@gmail.com](mailto:lasrybeskiwin@gmail.com)
